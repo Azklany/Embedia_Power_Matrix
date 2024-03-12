@@ -22,26 +22,26 @@ Test Cases:
 - Test Case 1:
   Matrix:
   ```
-  '3' '2' '2'
-  '8' '9' '25'
-  '2' '3' '5'
+  "3" "2" '2"
+  "8" "9" '25"
+  "2" "3" "5"
   ```
   Expected Output: Embedia Power Matrix
 
 - Test Case 2:
   Matrix:
   ```
-  '1' '3' '5'
-  '3' '7' '11'
-  '5' '11' '17'
+  "1" "3" "5"
+  "3" "7" "11"
+  "5" "11" "17"
   ```
   Expected Output: Not an Embedia Power Matrix
 
 - Test Case 3:
   Matrix:
   ```
-  '3' '4' '2'
-  '512' '256' '49'
-  '8' '4' '7'
+  "3" "4" "2"
+  "512" "256" "49"
+  "8" "4" "7"
   ```
   Expected Output: Embedia Power Matrix
