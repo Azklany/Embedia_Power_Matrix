@@ -2,14 +2,14 @@
 
 You are required to write a C program to work with Embedia Power Matrix, which is a matrix with at least 3 rows by 3 columns. In this matrix, each element (except for elements of the first and last rows) should equal the number below it raised to the power of the number above it. The numbers in the matrix are represented as characters enclosed in single quotation marks.
 
-##Your program should include the following functionalities:
+## Your program should include the following functionalities:
 
 1. A function to calculate the power given a base and an exponent.
 2. A function to convert a character representing a digit to its corresponding numerical value.
 3. A function to determine if a given matrix is an Embedia Power Matrix.
 4. Test cases to verify the correctness of your functions.
 
-###Please ensure that you do not use any built-in functions for these tasks.
+### Please ensure that you do not use any built-in functions for these tasks.
 
 Instructions:
 
