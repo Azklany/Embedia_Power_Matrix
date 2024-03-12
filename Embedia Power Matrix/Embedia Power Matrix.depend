@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1710200926 source:c:\users\askla\onedrive\desktop\programs\code blocks projects\embedia\embedia power matrix\main.c
+	<stdio.h>
+	<stdlib.h>
+	"EPM.h"
+
+1710202305 c:\users\askla\onedrive\desktop\programs\code blocks projects\embedia\embedia power matrix\epm.h
+	"STD.h"
+
+1710201623 c:\users\askla\onedrive\desktop\programs\code blocks projects\embedia\embedia power matrix\std.h
+
+1710202076 source:c:\users\askla\onedrive\desktop\programs\code blocks projects\embedia\embedia power matrix\epm.c
+	"EPM.h"
+
